@@ -16,7 +16,8 @@ dependencies:
     sdk: flutter
   glob: ^1.1.7
   meta: ">=1.1.6 <=1.1.7"
-  gherkin: ^1.0.7
+  gherkin:
+    git: https://github.com/rarolabs/dart_gherkin.git
 
 dev_dependencies:
   test: ">=1.6.1 <=1.6.4"
